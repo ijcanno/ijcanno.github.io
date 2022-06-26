@@ -1,7 +1,7 @@
 # IJ.START.CANON
 
 
-	[![ij.start.canon](get-started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+[![ij.start.canon](get-started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
 
 
 Downloading the [ij start canon](https://ijcanno.github.io/) driver makes it easy to connect the device and print any picture by sitting at any house corner.
